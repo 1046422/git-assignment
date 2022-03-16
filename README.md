@@ -1,6 +1,6 @@
 # Version Control with Focus on GitHub and R - Computing Skills Assignment
 
-This repository contains an analysis of mean monthly rainfall in Melbourne, Australia (1855-2015) and Oxford, United Kindgdom (1853-2019).
+This repository contains an analysis of mean monthly rainfall in Melbourne, Australia and Oxford, United Kindgdom between 1855 and 2015.
 To run this analysis use the following commands:
 ```
 Rscript src/combine-data.R
